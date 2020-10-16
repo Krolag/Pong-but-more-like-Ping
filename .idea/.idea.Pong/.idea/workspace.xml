@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="64c2ffa5-958d-4ba1-977b-346090afc584" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/PointsCounter.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Coundown.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/Scripts/PlayersMovement.cs" />
+        <option value="$PROJECT_DIR$/Assets/BallCollsion.cs" />
+        <option value="$PROJECT_DIR$/Assets/Coundown.cs" />
+        <option value="$PROJECT_DIR$/Assets/PointsCounter.cs" />
+        <option value="$PROJECT_DIR$/Assets/BallMovement.cs" />
+        <option value="$PROJECT_DIR$/Assets/SceneChanger.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1iTSODffcW2LMbYhk2ae2i7uhj8" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Discover.Launch.Via.Unity" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.ide.settings.spelling" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Standalone Player" type="RunUnityExe" factoryName="Unity Executable">
+      <option name="EXE_PATH" value="$PROJECT_DIR$/../../Builds\Pong.exe" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="E:\GameDev\Builds" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="selectedOptions">
+        <set />
+      </option>
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="selectedOptions">
+        <set />
+      </option>
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="64c2ffa5-958d-4ba1-977b-346090afc584" name="Default Changelist" comment="" />
+      <created>1601930081249</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1601930081249</updated>
+      <workItem from="1601930082406" duration="4797000" />
+      <workItem from="1601977634015" duration="6186000" />
+      <workItem from="1601989141935" duration="897000" />
+      <workItem from="1602000844476" duration="3158000" />
+      <workItem from="1602053407750" duration="1385000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="536" y="-915" key="#Inspection_severity" timestamp="1601989322614">
+      <screen x="0" y="-1080" width="1920" height="1030" />
+    </state>
+    <state x="536" y="-915" key="#Inspection_severity/0.-1080.1920.1030/0.0.1536.824@0.-1080.1920.1030" timestamp="1601989322614" />
+    <state x="718" y="-700" key="ANALYSIS_DLG_com.jetbrains.rider.actions.impl.cleanup.RiderCodeCleanupAction$actionPerformed$dlg$1" timestamp="1601986307771">
+      <screen x="0" y="-1080" width="1920" height="1030" />
+    </state>
+    <state x="718" y="-700" key="ANALYSIS_DLG_com.jetbrains.rider.actions.impl.cleanup.RiderCodeCleanupAction$actionPerformed$dlg$1/0.-1080.1920.1030/0.0.1536.824@0.-1080.1920.1030" timestamp="1601986307771" />
+    <state x="461" y="-915" key="SettingsEditor" timestamp="1601989378398">
+      <screen x="0" y="-1080" width="1920" height="1030" />
+    </state>
+    <state x="461" y="-915" key="SettingsEditor/0.-1080.1920.1030/0.0.1536.824@0.-1080.1920.1030" timestamp="1601989378398" />
+    <state x="616" y="-299" key="run.anything.popup" timestamp="1601984519580">
+      <screen x="0" y="-1080" width="1920" height="1030" />
+    </state>
+    <state x="616" y="-299" key="run.anything.popup/0.-1080.1920.1030/0.0.1536.824@0.-1080.1920.1030" timestamp="1601984519580" />
+    <state x="623" y="-855" width="672" height="678" key="search.everywhere.popup" timestamp="1602001442419">
+      <screen x="0" y="-1080" width="1920" height="1030" />
+    </state>
+    <state x="623" y="-855" width="672" height="678" key="search.everywhere.popup/0.-1080.1920.1030/0.0.1536.824@0.-1080.1920.1030" timestamp="1602001442419" />
+  </component>
+</project>
